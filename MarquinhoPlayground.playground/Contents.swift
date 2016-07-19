@@ -14,7 +14,7 @@ var welcomeMessage: String
 
 welcomeMessage = "Bem Vindo"
 
-welcomeMessage = "Bem Vindo Queridão"
+welcomeMessage = "Bem Vindo Mother Fucker"
 
 var Água = 1
 
