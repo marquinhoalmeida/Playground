@@ -12,7 +12,7 @@ var qtdeDeTentativas = 0
 
 var welcomeMessage: String
 
-welcomeMessage = "Bem Vindo Mother Fucking Fucker"
+welcomeMessage = "Bem Vindo"
 
 welcomeMessage = "Bem Vindo Queridão"
 
