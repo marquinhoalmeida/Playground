@@ -14,6 +14,8 @@ var welcomeMessage: String
 
 welcomeMessage = "Bem Vindo Mother Fucking Fucker"
 
+welcomeMessage = "Bem Vindo Queridão"
+
 var Água = 1
 
 // Testando o GitHub. Vou ver o que posso fazer com ele.
